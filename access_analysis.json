@@ -1,0 +1,39 @@
+{
+    "TOTAL_REQUESTS": 3216723,
+    "METHODS": {
+        "GET": 2247848,
+        "POST": 918794,
+        "HEAD": 49971,
+        "PUT": 70,
+        "OPTIONS": 39,
+        "DELETE": 1
+    },
+    "TOP_3_MOST_FREQUENTLY_IPS": {
+        "1ST": "193.106.31.130",
+        "2ND": "198.50.156.189",
+        "3RD": "5.112.235.245"
+    },
+    "TOP_3_LONGEST_REQUESTS": {
+        "1ST": {
+            "IP": "62.93.172.245",
+            "DATE_AND_TIME": "23/Dec/2015:07:27:57 +0100",
+            "METHOD": "POST",
+            "URL": "-",
+            "DURATION": 10000
+        },
+        "2ND": {
+            "IP": "213.162.68.113",
+            "DATE_AND_TIME": "06/Jan/2016:18:47:57 +0100",
+            "METHOD": "GET",
+            "URL": "http://www.almhuette-raith.at/index.php?option=com_phocagallery&view=category&id=1&Itemid=53",
+            "DURATION": 10000
+        },
+        "3RD": {
+            "IP": "194.166.55.43",
+            "DATE_AND_TIME": "06/Jan/2016:21:29:02 +0100",
+            "METHOD": "GET",
+            "URL": "http://www.almhuette-raith.at/index.php?option=com_phocagallery&view=category&id=1&Itemid=53",
+            "DURATION": 10000
+        }
+    }
+}
